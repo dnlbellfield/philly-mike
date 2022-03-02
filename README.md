@@ -4,7 +4,7 @@
 
 **Link to project:** https://phillymike.netlify.app/
 
-![alt tag](https://user-images.githubusercontent.com/47239035/155676336-1ffe32c3-43b0-4331-ba55-d4b460954764.png)
+![alt tag](https://user-images.githubusercontent.com/47239035/156345287-3d182058-e63b-4455-a25c-a32d3431ad4d.png)
 ## How It's Made:
 
 **Tech used:** HTML, CSS, JavaScript 
